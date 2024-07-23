@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: grey;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  #text-input {
+    padding: 5px;
+    margin: 10px;
+  }
+  
+  label {
+    color: pink;
+    font-size: 24px;
+  }
+  
+  #check-btn {
+    padding: 5px 10px;
+    cursor: pointer;
+    background-color: pink;
+  }
+  
+  #result {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
